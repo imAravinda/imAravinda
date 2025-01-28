@@ -10,6 +10,6 @@ Passionate coder | Skilled Programmer | Knowledge Seeker | Leader
 
 🚀 Let's connect and collaborate! Feel free to explore my repositories and projects to witness my coding journey. I am always excited to engage in meaningful discussions, share knowledge, and embark on new coding adventures.
 
-📫 You can reach me via email at acfernando1999@gmail.com or connect with me at https://aravindaportflio.live/. Let's build something amazing together!
+📫 You can reach me via email at acfernando1999@gmail.com or connect with me at https://aravindaportfolio-e4qsto9i8-imaravinda.vercel.app/ Let's build something amazing together!
 
 Happy coding! 😊
